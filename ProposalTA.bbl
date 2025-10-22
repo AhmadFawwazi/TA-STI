@@ -1,0 +1,576 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global/global}
+    \entry{brynjolfsson2021machine}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{fullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{fullhashraw}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{bibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorbibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authornamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorfullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorfullhashraw}{ac2b8f18503c977022c84dc540f6fda9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Updated edition}
+      \field{title}{The Machine, Platform, Crowd: Harnessing Our Digital Future}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{BPBI}{misc}{}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Buku {Praktis} {Bahasa} {Indonesia} 1/{Kata} - {Wikisumber} bahasa {Indonesia}}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://id.wikisource.org/wiki/Buku_Praktis_Bahasa_Indonesia_1/Kata
+      \endverb
+      \verb{url}
+      \verb https://id.wikisource.org/wiki/Buku_Praktis_Bahasa_Indonesia_1/Kata
+      \endverb
+    \endentry
+    \entry{doe2025quantum}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d6cfb2b8c4b3f9440ec4642438129367}{%
+           family={Doe},
+           familyi={D\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{fullhash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{fullhashraw}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{bibnamehash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{authorbibnamehash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{authornamehash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{authorfullhash}{d6cfb2b8c4b3f9440ec4642438129367}
+      \strng{authorfullhashraw}{d6cfb2b8c4b3f9440ec4642438129367}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.techinsights.com/articles/rise-of-quantum-computing-startups}}
+      \field{note}{Accessed October 20, 2025}
+      \field{title}{The Rise of Quantum Computing Startups}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{garcia2020ethics}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c43609126ee510c62777a2ec43ff6ee6}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \strng{namehash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{fullhash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{fullhashraw}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{bibnamehash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{authorbibnamehash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{authornamehash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{authorfullhash}{c43609126ee510c62777a2ec43ff6ee6}
+      \strng{authorfullhashraw}{c43609126ee510c62777a2ec43ff6ee6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Ethics in Machine Learning Systems}
+      \field{type}{PhD dissertation}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{iso2023data}{manual}{}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \list{organization}{1}{%
+        {International Organization for Standardization}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{shortauthorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{shortauthornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{shortauthorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{shortauthorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{ISO/IEC 27001:2023 – Information Security Management Systems}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.iso.org/standard/27001.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/standard/27001.html
+      \endverb
+    \endentry
+    \entry{nytimes2024aiethics}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b727bfa931c94f294f6cb6ee782ef02a}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{fullhash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{fullhashraw}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{bibnamehash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{authorbibnamehash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{authornamehash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{authorfullhash}{b727bfa931c94f294f6cb6ee782ef02a}
+      \strng{authorfullhashraw}{b727bfa931c94f294f6cb6ee782ef02a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The New York Times}
+      \field{month}{3}
+      \field{note}{Accessed October 22, 2025}
+      \field{title}{Tech Leaders Debate Regulation of Artificial Intelligence}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2024/03/15/technology/ai-regulation-debate.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2024/03/15/technology/ai-regulation-debate.html
+      \endverb
+    \endentry
+    \entry{laudon2020}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2a3d8893ad04ba3c98081349c47e2f6c}{%
+           family={Laudon},
+           familyi={L\bibinitperiod},
+           given={Kenneth\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7104f050b378ef23f0bc36c2b73e5ea2}{%
+           family={Laudon},
+           familyi={L\bibinitperiod},
+           given={Jane\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{fullhash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{fullhashraw}{a99ce1573b42821945806f73f25db5a4}
+      \strng{bibnamehash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{authorbibnamehash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{authornamehash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{authorfullhash}{a99ce1573b42821945806f73f25db5a4}
+      \strng{authorfullhashraw}{a99ce1573b42821945806f73f25db5a4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistem Informasi Manajemen}
+      \field{year}{2020}
+    \endentry
+    \entry{miller2023cyber}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a029b65b1e80a3cc170905a6ad97f71d}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fbac1132862baad848b06926ad241610}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d423f545c47a8c65a465fcd5649bcbbc}{%
+           family={Brooks},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{fullhash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{fullhashraw}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{bibnamehash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{authorbibnamehash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{authornamehash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{authorfullhash}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{authorfullhashraw}{a029b65b1e80a3cc170905a6ad97f71d}
+      \strng{editorbibnamehash}{f34073c5f8bff7516d40437259b5dda8}
+      \strng{editornamehash}{f34073c5f8bff7516d40437259b5dda8}
+      \strng{editorfullhash}{f34073c5f8bff7516d40437259b5dda8}
+      \strng{editorfullhashraw}{f34073c5f8bff7516d40437259b5dda8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Information Systems Security}
+      \field{title}{Cybersecurity Governance in Cloud Ecosystems}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{181\bibrangedash 205}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/978-3-031-11321-0_9
+      \endverb
+    \endentry
+    \entry{nguyen2022trust}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88b03ae9eed0476bbfedbfc61ccedbc7}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Linh\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35f7ad3aa766caab0d088592c981391b}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7365313ebce5d83701115a311949ec31}
+      \strng{fullhash}{7365313ebce5d83701115a311949ec31}
+      \strng{fullhashraw}{7365313ebce5d83701115a311949ec31}
+      \strng{bibnamehash}{7365313ebce5d83701115a311949ec31}
+      \strng{authorbibnamehash}{7365313ebce5d83701115a311949ec31}
+      \strng{authornamehash}{7365313ebce5d83701115a311949ec31}
+      \strng{authorfullhash}{7365313ebce5d83701115a311949ec31}
+      \strng{authorfullhashraw}{7365313ebce5d83701115a311949ec31}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Ethics and Information Technology}
+      \field{number}{3}
+      \field{title}{Trust, Privacy, and Data Ethics in AI Systems}
+      \field{volume}{24}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{315\bibrangedash 332}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s10676-021-09612-8
+      \endverb
+    \endentry
+    \entry{pressman2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d3f81788d99cf425c4b6e0a454baab0}{%
+           family={Pressman},
+           familyi={P\bibinitperiod},
+           given={Roger\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Yogyakarta}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{fullhash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{fullhashraw}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{bibnamehash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{authorbibnamehash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{authornamehash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{authorfullhash}{4d3f81788d99cf425c4b6e0a454baab0}
+      \strng{authorfullhashraw}{4d3f81788d99cf425c4b6e0a454baab0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rekayasa Perangkat Lunak: Pendekatan Praktisi}
+      \field{year}{2019}
+    \endentry
+    \entry{rahman2024iot}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e86ecedaa4a6fc887837eb8ca64c8585}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Faisal},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88b775182551940235c4ebae2818392e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Tokyo, Japan}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{fullhash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{fullhashraw}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{bibnamehash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{authorbibnamehash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{authornamehash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{authorfullhash}{80dddf8b5b4d63288297c2c564b2c7db}
+      \strng{authorfullhashraw}{80dddf8b5b4d63288297c2c564b2c7db}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE International Conference on Smart Infrastructure}
+      \field{title}{Optimizing IoT Networks for Smart Cities}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{55\bibrangedash 64}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/SI2024.9023417
+      \endverb
+    \endentry
+    \entry{shapiro2019information}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6340b85ec1efcd67833befbb9a1ff577}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=affde3c8d511e90b7126c60a56e7ab49}{%
+           family={Varian},
+           familyi={V\bibinitperiod},
+           given={Hal\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School Press}%
+      }
+      \strng{namehash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{fullhash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{fullhashraw}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{bibnamehash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{authorbibnamehash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{authornamehash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{authorfullhash}{121f4eb5a606d2971837eb468f4ab01b}
+      \strng{authorfullhashraw}{121f4eb5a606d2971837eb468f4ab01b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Information Rules: A Strategic Guide to the Network Economy}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{un2024ai}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eccb44c9a7b3005992d0cb473b80b6e0}{%
+           family={{United Nations Department of Economic and Social Affairs}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United Nations}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{fullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{fullhashraw}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{bibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authorbibnamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authornamehash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authorfullhash}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \strng{authorfullhashraw}{eccb44c9a7b3005992d0cb473b80b6e0}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI and Global Development: Policy Outlook 2024}
+      \field{type}{techreport}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.un.org/ai-global-development-2024
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/ai-global-development-2024
+      \endverb
+    \endentry
+    \entry{williams2023supplychain}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7dd649d84847634e415c312a17549e72}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a94b2fa705c4db0f1e3dfc4917e9f735}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Priya},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{fullhash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{fullhashraw}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{bibnamehash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{authorbibnamehash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{authornamehash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{authorfullhash}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \strng{authorfullhashraw}{d816b91b3ae51b58ac6957c5c4f572d7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Journal of Operations Management}
+      \field{number}{2}
+      \field{title}{Blockchain Applications for Transparent Supply Chains}
+      \field{volume}{74}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{141\bibrangedash 158}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.jom.2023.01.005
+      \endverb
+    \endentry
+    \entry{worldbank2025report}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32730e15a7ca0bf0686ea8d4a3a46ab9}{%
+           family={{World Bank}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{fullhash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{fullhashraw}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{bibnamehash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{authorbibnamehash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{authornamehash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{authorfullhash}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \strng{authorfullhashraw}{32730e15a7ca0bf0686ea8d4a3a46ab9}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed October 22, 2025}
+      \field{title}{The Digital Economy Report 2025: Innovation, Inclusion, and Inequality}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.worldbank.org/digital-economy-2025
+      \endverb
+      \verb{url}
+      \verb https://www.worldbank.org/digital-economy-2025
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
