@@ -1,0 +1,407 @@
+@article{adomaviciusNextGenerationRecommender2005,
+  title = {Toward the next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions},
+  shorttitle = {Toward the next Generation of Recommender Systems},
+  author = {Adomavicius, G. and Tuzhilin, A.},
+  year = 2005,
+  month = jun,
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume = {17},
+  number = {6},
+  pages = {734--749},
+  issn = {1041-4347},
+  doi = {10.1109/TKDE.2005.99},
+  urldate = {2025-12-03},
+  abstract = {This paper presents an overview of the field of recommender systems and describes the current generation of recommendation methods that are usually classified into the following three main categories: content-based, collaborative, and hybrid recommendation approaches. This paper also describes various limitations of current recommendation methods and discusses possible extensions that can improve recommendation capabilities and make recommender systems applicable to an even broader range of applications. These extensions include, among others, an improvement of understanding of users and items, incorporation of the contextual information into the recommendation process, support for multcriteria ratings, and a provision of more flexible and less intrusive types of recommendations.},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\S5CBW6CT\Adomavicius and Tuzhilin - 2005 - Toward the next generation of recommender systems a survey of the state-of-the-art and possible ext.pdf}
+}
+
+@article{ardiansyahEfektivitasModelPembelajaran2025,
+  title = {{Efektivitas Model Pembelajaran Berbasis Tim dalam Meningkatkan Kolaborasi Mahasiswa di Lingkungan Kampus}},
+  author = {Ardiansyah, Dimas Rohman and Sari, Iffah Atiqah and Benu, Putra James and Takaeb, Afrona E.L. and R. Nayoan, Christina},
+  year = 2025,
+  month = jul,
+  journal = {Jurnal Penelitian Multidisiplin Bangsa},
+  volume = {2},
+  number = {2},
+  pages = {245--253},
+  issn = {3048-4251},
+  doi = {10.59837/jpnmb.v2i2.463},
+  urldate = {2025-12-01},
+  abstract = {Abstract This study aims to examine the effectiveness of the Team-Based Learning model in improving student collaboration in the campus environment. The method used is a literature study with a qualitative research approach, the sample consists of twenty national journals published in 2020--2025 which were selected by purposive sampling based on relevance and quality, as well as relevance to the theme of collaboration and team learning models. Data collection techniques were carried out through primary literature documentation, while the research variables include the implementation of the Team-Based Learning model as an independent variable and the level of student collaboration as a dependent variable. Data analysis was applied using thematic content analysis to identify patterns of implementation, supporting factors, and the impact of the model on interactions between students. The results of the study show that the implementation of the team-based model---including the formation of heterogeneous groups, joint tasks, and group awards---consistently improves communication skills, mutual respect, and collaborative task completion. In conclusion, the Team-Based Learning model has proven effective in strengthening student collaboration, and is recommended as a primary pedagogical strategy in college curricula that emphasize teamwork and soft skill development.},
+  copyright = {https://creativecommons.org/licenses/by/4.0},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\3T9WESUK\Ardiansyah et al. - 2025 - Efektivitas Model Pembelajaran Berbasis Tim dalam Meningkatkan Kolaborasi Mahasiswa di Lingkungan Ka.pdf}
+}
+
+@article{burkeKnowledgebasedRecommenderSystems,
+  title = {Knowledge-Based Recommender Systems},
+  author = {Burke, Robin},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\LSAD9U2R\Burke - Knowledge-based recommender systems.pdf}
+}
+
+@article{changWhenGroupWork2018,
+  title = {When {{Group Work Doesn}}'t {{Work}}: {{Insights}} from {{Students}}},
+  shorttitle = {When {{Group Work Doesn}}'t {{Work}}},
+  author = {Chang, Yunjeong and Brickman, Peggy},
+  editor = {Tanner, Kimberly},
+  year = 2018,
+  month = sep,
+  journal = {CBE---Life Sciences Education},
+  volume = {17},
+  number = {3},
+  pages = {ar52},
+  issn = {1931-7913},
+  doi = {10.1187/cbe.17-09-0199},
+  urldate = {2025-12-03},
+  abstract = {Introducing group work in college science classrooms can lead to noticeable gains in student achievement, reasoning ability, and motivation. To realize these gains, students must all contribute. Strategies like assigning roles, group contracts, anonymous peer evaluations, and peer ratings all encourage student participation. In a class using these strategies, we conducted in-depth interviews to uncover student perceptions of group work in general and the utility of these support strategies. Students in both high- and low-performance groups still complained of unequal contributions while praising the social support provided by groups. Students who scored highly on tests were more likely to recognize the benefits of group work, regardless of their groups' overall performance levels, while lower-scoring students perceived group work as time-consuming ``busy work'' with little cognitive benefit. Comments from anonymous peer evaluations differed only subtly between high- and low-performance groups. Numerical ratings on these evaluations did correlate with overall group performance. However, students in lower-performance groups assigned harsh ratings to their low-scoring members, while students in higher-performance groups were more generous in their ratings for low-scoring members. We discuss implications of relying on support strategies for promoting productive group work.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\QCKYLEC3\Chang and Brickman - 2018 - When Group Work Doesn’t Work Insights from Students.pdf}
+}
+
+@article{darbyMakingGroupWork,
+  title = {Making {{Group Work Work}}: {{Improving}} University Group Work for Students and Staff},
+  author = {Darby, S and Tallontire, A},
+  abstract = {The project's aims included exploring the challenges of group work and creating practical guidelines for staff, with the goals of enhancing student experience as well as contributing to academic discourse. Findings focus on the symbiotic relationship between skills-based learning and knowledge acquisition; beneficial use of formative and summative assessment; and the importance of transparency and facilitation to empower students as partners in group-based learning and enhance their experiences. Unlike many projects we read about, this research took staff experiences and approaches to group work as its starting point, though student surveys did augment our findings. We drew on the ideas of action learning to guide participants through a cycle of planning, doing and reflecting on their own experiences, though some did not participate in every phase. Participants -- in total 14, across social and physical sciences -- also shaped analysis of emerging findings through interactive Reference Group sessions. Staff found the reflective interviews unexpectedly beneficial for their thinking and practice. The project has led to collaboration on the Knowledge Exchange programme led by the School of Earth and Environment's Teaching Enhancement Scheme co-ordinator in order to begin to create space for generative reflective exchange, in addition to the practical resources produced by the project.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\44J29YSP\Darby and Tallontire - Making Group Work Work Improving university group work for students and staff.pdf}
+}
+
+@article{dubeOneCrisisDifferent2022,
+  title = {One Crisis, Different Paths to Supply Resilience: {{The}} Case of Ventilator Procurement for the {{COVID-19}} Pandemic},
+  shorttitle = {One Crisis, Different Paths to Supply Resilience},
+  author = {Dube, Nonhlanhla and Li, Qiujun and Selviaridis, Kostas and Jahre, Marianne},
+  year = 2022,
+  month = dec,
+  journal = {Journal of Purchasing and Supply Management},
+  volume = {28},
+  number = {5},
+  pages = {100773},
+  issn = {14784092},
+  doi = {10.1016/j.pursup.2022.100773},
+  urldate = {2025-10-28},
+  abstract = {This research explores supply resilience through an equifinality lens to establish how buying organizations impacted differently by the same extreme event can strategize and all successfully secure supply. We conduct case study research and use secondary data to investigate how three European governments sourced for ventilators during the first wave of COVID-19. The pandemic had an unprecedented impact on the ventilator market. It disrupted already limited supply and triggered a demand surge. We find multiple paths to supply resilience contingent on redundant capacity and local sourcing options at the pandemic's onset. Low redundancy combined with limited local sourcing options is associated with more diverse strategies and flexibility. The most notable strategy is spurring supplier innovation by fostering collaboration among actors in disparate industries. High redundancy combined with multiple local sourcing options is associated with more focused strategies and agility. One (counter-intuitive) strategy is the rationalization of the supply base.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\YZ99WGG6\Dube et al. - 2022 - One crisis, different paths to supply resilience The case of ventilator procurement for the COVID-1.pdf}
+}
+
+@article{ensherEffectsPerceivedDiscrimination2001,
+  title = {Effects of Perceived Discrimination on Job Satisfaction, Organizational Commitment, Organizational Citizenship Behavior, and Grievances},
+  author = {Ensher, Ellen A. and {Grant-Vallone}, Elisa J. and Donaldson, Stewart I.},
+  year = 2001,
+  journal = {Human Resource Development Quarterly},
+  volume = {12},
+  number = {1},
+  pages = {53--72},
+  issn = {1044-8004, 1532-1096},
+  doi = {10.1002/1532-1096(200101/02)12:1<53::AID-HRDQ5>3.0.CO;2-G},
+  urldate = {2025-12-04},
+  copyright = {http://doi.wiley.com/10.1002/tdm\_license\_1.1},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\HISDVA8V\Ensher et al. - 2001 - Effects of perceived discrimination on job satisfaction, organizational commitment, organizational c.pdf}
+}
+
+@article{evrizaOptimalisasiKolaborasiMahasiswa2023,
+  title = {{Optimalisasi kolaborasi mahasiswa dengan instansi praktik dalam menentukan minat praktik kerja perpustakaan}},
+  author = {Evriza, Eka and Pramudibyanto, Hascaryo},
+  year = 2023,
+  month = nov,
+  journal = {Daluang: Journal of Library and Information Science},
+  volume = {3},
+  number = {2},
+  pages = {89--102},
+  issn = {27973182, 27973131},
+  doi = {10.21580/daluang.v3i2.2023.17876},
+  urldate = {2025-10-28},
+  abstract = {Purpose.The purpose of this study is to obtain a description of the collaboration carried out by students participating in Library Internship Programs with the institutions where they undergo their internships. Methodology.Using an online questionnaire as the instrument distributed to students participating in internships, responses were received from students from 127 provinces in Indonesia. Results and discussion. The information gathered indicates that library internship activities already reflect a diversity of interests, competencies, and objectives as part of the library internship experience. There is alignment between the activities carried out and various aspects of library management, collection development, and the complexity of seeking career opportunities in the library field. Conclusions. An analysis of the collaboration strategy between students and practical institutions in determining the type of library practice reveals several important aspects. Students must have a clear understanding of the learning objectives and library practice requirements through constructive dialogue with the practical institution. They also need to build a professional network and participate in activities that broaden their understanding of various types of practices. However, the lack of variety in the scope of practices suggests the need for guidance or alignment activities before the practical placement is carried out, allowing students to choose a practice type that aligns with their mentor's educational background.},
+  copyright = {https://creativecommons.org/licenses/by-nc-nd/4.0},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\FU9KP9MD\Evriza and Pramudibyanto - 2023 - Optimalisasi kolaborasi mahasiswa dengan instansi praktik dalam menentukan minat praktik kerja perpu.pdf}
+}
+
+@article{forouzandehComprehensiveSurveyModern,
+  title = {A Comprehensive Survey of Modern Recommendation Systems: Methods, Personalisation and Scalable Deployment},
+  author = {Forouzandeh, Saman and Krivitsky, Pavel N and Chandra, Rohitash},
+  abstract = {Recommender systems have emerged as crucial in modern decision support systems that employ diverse machine learning models to capture user preferences to generate personalised recommendations. In the last decade, recommender systems have modernised with innovative deep learning models to be applicable to large-scale applications and diverse settings, including multi-criteria recommender systems. In this paper, we present a comprehensive survey of recommender systems, categorising them based on a novel taxonomy that includes fundamental, emerging, personalisation and interaction, and scalability-focused methods. For each category, we examine the fundamental learning objectives, loss function formulations, and optimisation strategies. Our survey particularly focuses on how different loss functions shape the learning behaviour and performance of these systems. We investigate how modern recommender systems handle various challenges, including sparsity, cold-start problems, fairness, and scalability, through specialised loss function designs. Additionally, we explore recent advances in self-supervised, multimodal fusion, and multi-task learning frameworks that have significantly enhanced recommendation performance. Finally, we identify open challenges and future research directions, particularly in efficient knowledge distillation, explainability, and ethical considerations in recommender systems.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\64MAZTCZ\Forouzandeh et al. - A comprehensive survey of modern recommendation systems methods, personalisation and scalable deplo.pdf}
+}
+
+@inproceedings{guySocialMediaRecommendation2010,
+  title = {Social Media Recommendation Based on People and Tags},
+  booktitle = {Proceedings of the 33rd International {{ACM SIGIR}} Conference on {{Research}} and Development in Information Retrieval},
+  author = {Guy, Ido and Zwerdling, Naama and Ronen, Inbal and Carmel, David and Uziel, Erel},
+  year = 2010,
+  month = jul,
+  pages = {194--201},
+  publisher = {ACM},
+  address = {Geneva Switzerland},
+  doi = {10.1145/1835449.1835484},
+  urldate = {2025-12-03},
+  abstract = {We study personalized item recommendation within an enterprise social media application suite that includes blogs, bookmarks, communities, wikis, and shared files. Recommendations are based on two of the core elements of social media-----people and tags. Relationship information among people, tags, and items, is collected and aggregated across different sources within the enterprise. Based on these aggregated relationships, the system recommends items related to people and tags that are related to the user. Each recommended item is accompanied by an explanation that includes the people and tags that led to its recommendation, as well as their relationships with the user and the item. We evaluated our recommender system through an extensive user study. Results show a significantly better interest ratio for the tag-based recommender than for the people-based recommender, and an even better performance for a combined recommender. Tags applied on the user by other people are found to be highly effective in representing that user's topics of interest.},
+  isbn = {978-1-4503-0153-4},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\KXB7BGGP\Guy et al. - 2010 - Social media recommendation based on people and tags.pdf}
+}
+
+@article{hevnerDesignScienceInformation,
+  title = {Design {{Science}} in {{Information Systems Research}}},
+  author = {Hevner, Alan R and March, Salvatore T and Park, Jinsoo and Ram, Sudha},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\HE8ZP9ZU\Hevner et al. - Design Science in Information Systems Research.pdf}
+}
+
+@article{laalBenefitsCollaborativeLearning2012,
+  title = {Benefits of Collaborative Learning},
+  author = {Laal, Marjan and Ghodsi, Seyed Mohammad},
+  year = 2012,
+  journal = {Procedia - Social and Behavioral Sciences},
+  volume = {31},
+  pages = {486--490},
+  issn = {18770428},
+  doi = {10.1016/j.sbspro.2011.12.091},
+  urldate = {2025-12-04},
+  abstract = {Collaborative learning is an educational approach to teaching and learning that involves groups of learners working together to solve a problem, complete a task, or create a product. This review article outlines benefits of learning in collaboration style, begins with the concept of the term and continues with the advantages created by collaborative methods. This paper sets out major benefits of collaborative learning into four categories of; social, psychological, academic, and assessment benefits. Each of them is further subdivided to more specific themes.},
+  copyright = {https://www.elsevier.com/tdm/userlicense/1.0/},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\NX68KW5W\Laal and Ghodsi - 2012 - Benefits of collaborative learning.pdf}
+}
+
+@article{maLearningResourceRecommendation2023,
+  title = {Learning Resource Recommendation via Knowledge Graphs and Learning Style Clustering},
+  author = {Ma, Hua and Tang, Yuqi and Zhang, Xuxiang and Zhu, Haibin and Huang, Peiji and Zhang, Hongyu},
+  year = 2023,
+  month = may,
+  journal = {Journal of Intelligent \& Fuzzy Systems},
+  volume = {44},
+  number = {5},
+  pages = {8053--8069},
+  issn = {10641246, 18758967},
+  doi = {10.3233/JIFS-222627},
+  urldate = {2025-12-03},
+  abstract = {An e-learning system should recommend learners appropriate learning resources according to their actual needs and cognitive status for improving their learning performance. To overcome the deficiencies of existing approaches (e.g., poor interpretability, limited efficiency and accuracy of recommendation), we propose a new recommendation approach to learning resources via knowledge graphs and learning style clustering. In this approach, the knowledge graphs of an online learning environment are constructed based on a generic ontology model, and the graph embedding algorithm and graph matching process are applied to optimize the efficiency of graph computation for identifying similar learning resources. By introducing learning style theory, learners are clustered based on their learning styles. Based on the clustering results, the learners' degrees of interest in similar learning resources are measured, and the recommendation results are obtained according to the degrees of interest. Finally, the experiments demonstrate that the proposed approach significantly enhances the computational efficiency and the quality of learning resource recommendation compared with the existing approaches in large-scale graph data scenarios.},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\2YRPXARF\Ma et al. - 2023 - Learning resource recommendation via knowledge graphs and learning style clustering.pdf}
+}
+
+@article{mondiRECOMMENDATIONSYSTEMCONTENTBASED2019,
+  title = {{RECOMMENDATION SYSTEM WITH CONTENT-BASED FILTERING METHOD FOR CULINARY TOURISM IN MANGAN APPLICATION}},
+  author = {Mondi, Rhesa Havilah and Wijayanto, Ardhi},
+  year = 2019,
+  volume = {8},
+  number = {2},
+  abstract = {Culinary tourism has become one of the current trends in the culinary world. The amount of information circulating does not necessarily make culinary tourists easier to determine the desired menu choices. The use of search engines alone is still not enough, so we need a recommendation system that can provide advice according to user needs.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\EX7PHE5S\Mondi and Wijayanto - 2019 - RECOMMENDATION SYSTEM WITH CONTENT-BASED FILTERING METHOD FOR CULINARY TOURISM IN MANGAN APPLICATION.pdf}
+}
+
+@article{nadhirohKeterampilanKolaborasiMahasiswa2020,
+  title = {{Keterampilan kolaborasi mahasiswa teknologi pendidikan dalam mata kuliah kewirausahaan berbasis proyek}},
+  author = {Nadhiroh, Putri Siti and Trilisiana, Novi},
+  year = 2020,
+  month = may,
+  journal = {Epistema},
+  volume = {1},
+  number = {1},
+  pages = {23--30},
+  issn = {2723-8199},
+  doi = {10.21831/ep.v1i1.32322},
+  urldate = {2025-10-28},
+  abstract = {This study aims to describe, (1) The learning process of project-based Entrepreneurship Courses in Educational Technology students as a strategy for developing collaboration skills; (2) Collaboration skills of Educational Technology students. This research uses a qualitative method that is a type of case study. Data collection techniques using observation, interviews, and documentation. The results showed that the entrepreneurial learning activities had been carried out well through 6 stages, namely problem presentation, work planning, scheduling, project making, assessment, and evaluation. Student collaboration skills show good results, (1) Students are able to communicate well; (2) Students are orderly in attendance; (3) Able to lead members; (4) Students have high awareness to complete the project; (5) Cooperation is done well; (6) Students use trusted sources; (7) Students are able to adjust to changes; (8) Able to control emotions; and (9) Nine out of eleven groups qualify for PMW 2019. However, there are some findings of indicators that have not been maximized: (1) Students do not make regulations; (2) Lack of confidence; and (3) Organizing performance is not carried out in detail.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\2NKWN9CM\Nadhiroh and Trilisiana - 2020 - Keterampilan kolaborasi mahasiswa teknologi pendidikan dalam mata kuliah kewirausahaan berbasis proy.pdf}
+}
+
+@article{novitaCOLLABORATIVELEARNINGMANIFESTATION2020,
+  title = {{{COLLABORATIVE LEARNING AS THE MANIFESTATION OF SOCIOCULTURAL THEORY}}: {{TEACHERS}}' {{PERSPECTIVES}}},
+  author = {Novita, Dian and Kurnia, Fabiola Dharmawati and Mustofa, Ali},
+  year = 2020,
+  volume = {9},
+  abstract = {The purpose of the study is to identify the teachers' barriers in implementing collaborative learning in EFL classrooms. The study was conducted at Universitas Muhammadiyah Sidoarjo with two teachers as the participants. Additionally, the study employed a qualitative research method by using an in-depth interview to obtain the data. The findings of the study showed that it is difficult to assess students in collaborative work activities besides organizing the doings in the approach. To solve the problems, teachers should pay more attention to students' group performance, the social interaction, and mutual support of each member of the group rather than focus on group productivity and individual performance in assessing the students' achievement.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\ILE74GEA\Novita et al. - 2020 - COLLABORATIVE LEARNING AS THE MANIFESTATION OF SOCIOCULTURAL THEORY TEACHERS’ PERSPECTIVES.pdf}
+}
+
+@article{omodanAddressingPotentialConflict2023,
+  title = {Addressing {{Potential Conflict}} among {{University Students}} during {{Collaborative Tasks}}},
+  author = {Omodan, Bunmi Isaiah and Skosana, Chiggo},
+  year = 2023,
+  month = dec,
+  journal = {Education Sciences},
+  volume = {13},
+  number = {12},
+  pages = {1245},
+  issn = {2227-7102},
+  doi = {10.3390/educsci13121245},
+  urldate = {2025-12-03},
+  abstract = {This study addresses potential conflicts during collaborative tasks among university undergraduate students and presents strategies to mitigate such conflicts at a university in South Africa. Drawing on the unique context of South Africa, characterised by its rich cultural diversity and historical challenges, Social Identity Theory (SIT) was used to theorise the study within a transformative paradigm, qualitative approach and participatory research design. Ten undergraduate students were sampled and interviewed. Thematic analysis was employed to make sense of the data. The study found that a lack of a culture of open dialogue and clear guidelines and expectations leads to conflict, and the study also found that promoting a culture of open dialogue and establishing clear guidelines and expectations during collaborative projects can help prevent potential conflicts among university undergraduate students during collaborative engagement. The study concludes that promoting a culture of open dialogue and fostering establishing clear guidelines and expectations provide undergraduate students with the tools to manage group conflicts.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\LZPHZV8A\Omodan and Skosana - 2023 - Addressing Potential Conflict among University Students during Collaborative Tasks.pdf}
+}
+
+@article{pangSociallyChallengedCollaborative2018,
+  title = {Socially {{Challenged Collaborative Learning}} of {{Secondary School Students}} in {{Singapore}}},
+  author = {Pang, Christopher and Lau, Jesslyn and Seah, Chong and Cheong, Linda and Low, Audrey},
+  year = 2018,
+  month = feb,
+  journal = {Education Sciences},
+  volume = {8},
+  number = {1},
+  pages = {24},
+  issn = {2227-7102},
+  doi = {10.3390/educsci8010024},
+  urldate = {2025-12-03},
+  abstract = {Using a grounded theory research design, this paper examined the collaborative learning experiences of secondary school students in Singapore. The core phenomenon that emerged was the need for social interactions in collaborative learning, both in classroom and online settings. Educators often take for granted that effective collaborative learning will occur naturally once students are assigned to work in groups. In examining students' dissatisfaction when working in groups, this study highlighted the importance of surfacing these hidden assumptions for careful scrutiny. The key factors identified were centered on the need to address social challenges within collaborative learning. These included a pragmatic, results-oriented approach with limited interpersonal engagement used by students that can compromise collaborative learning outcomes. Having a deeper understanding of the challenges that resulted from limited social interactions provides educators with insights when designing classroom and online learning activities. This paper contributes to the understanding of groups' active learning to inform pedagogical practices for educators engaged in designing better collaborative learning experiences. Educators and curriculum designers need to be aware of the social drawbacks in collaborative learning in order to design a more socially engaging learning environment.},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\36SGAHEZ\Pang et al. - 2018 - Socially Challenged Collaborative Learning of Secondary School Students in Singapore.pdf}
+}
+
+@article{pradinaDampakKohesivitasKelompok2024,
+  title = {{Dampak Kohesivitas Kelompok terhadap Social Loafing di Kalangan Mahasiswa}},
+  author = {Pradina, Destiana Mulia and Maryam, Effy Wardati},
+  year = 2024,
+  month = jul,
+  journal = {Journal of Islamic Psychology},
+  volume = {1},
+  number = {1},
+  pages = {12},
+  issn = {3063-654X},
+  doi = {10.47134/islamicpsychology.v1i1.59},
+  urldate = {2025-12-03},
+  abstract = {This study addresses the issue of social loafing among students at Muhammadiyah University of Sidoarjo, where individuals may feel demotivated due to their perceived insignificance in group contributions or the lack of correlation between contribution size and rewards. The aim is to explore the relationship between group cohesiveness and social loafing among these students. Utilizing a correlational quantitative design, data was gathered from 372 active students using a Likert scale. The analysis employed product-moment correlation via SPSS version 25.0. Results reveal a significant correlation between group cohesiveness and social loafing, indicating that cohesive groups may experience less social loafing. These findings underscore the importance of fostering group cohesion to mitigate social loafing tendencies among university students, with potential implications for enhancing group productivity and engagement in academic settings.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\PYKPYAZQ\Pradina and Maryam - 2024 - Dampak Kohesivitas Kelompok terhadap Social Loafing di Kalangan Mahasiswa.pdf}
+}
+
+@article{rahayuInovasiMetodePembelajaran2024,
+  title = {{Inovasi Metode Pembelajaran Kolaboratif di Era digital: Studi Kasus Perguruan Tinggi Swasta Magetan: Innovation of Collaborative Learning Methods in the Digital Era: Case Study of Magetan Private Colleges}},
+  shorttitle = {{Inovasi Metode Pembelajaran Kolaboratif di Era digital}},
+  author = {Rahayu, Arum Putri and Nisak, Hernik Khoirun and Samuji, Samuji and Wahib, Ahmad and Besari, Anam},
+  year = 2024,
+  month = aug,
+  journal = {Edu Cendikia: Jurnal Ilmiah Kependidikan},
+  volume = {4},
+  number = {02},
+  pages = {368--379},
+  issn = {2798-365X},
+  doi = {10.47709/educendikia.v4i02.4450},
+  urldate = {2025-10-28},
+  abstract = {The importance of innovation in learning methods cannot be ignored, especially in the digital era where access to information is very easy. Collaborative learning methods have been shown to increase student engagement and understanding. This study evaluates the implementation of collaborative learning methods in three private universities in Magetan, namely Universitas Doktor Nugroho and STAI Ma'arif Magetan, using a quantitative survey method. The study shows that collaborative learning methods are effective in increasing student understanding and engagement. Technology plays an important role in supporting collaborative learning with very high usage, although infrastructure support still needs to be improved. The role of lecturers is very significant in facilitating collaborative learning, and student satisfaction with this method is high. However, there are still moderate obstacles in implementing this method. In addition, collaborative learning methods show a positive impact on student academic achievement. To improve the effectiveness of collaborative learning, it is necessary to improve infrastructure support and training for lecturers and the implementation of innovative teaching strategies. This study provides recommendations for further development in the implementation of collaborative learning methods in universities, especially in the context of technology use and improving the overall quality of education.},
+  copyright = {https://creativecommons.org/licenses/by-nc/4.0},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\Y6GA8VLY\Rahayu et al. - 2024 - Inovasi Metode Pembelajaran Kolaboratif di Era digital Studi Kasus Perguruan Tinggi Swasta Magetan.pdf}
+}
+
+@article{rahmawatiPeranKolaborasiDalam2024,
+  title = {{Peran Kolaborasi dalam Perguruan Tinggi}},
+  author = {Rahmawati, Aulia and S, Rinny and Rahmi, Sri},
+  year = 2024,
+  month = dec,
+  journal = {Indo-MathEdu Intellectuals Journal},
+  volume = {5},
+  number = {6},
+  pages = {8161--8175},
+  issn = {2808-5078, 2808-5604},
+  doi = {10.54373/imeij.v5i6.2273},
+  urldate = {2025-10-28},
+  abstract = {This research aims to analyze the role of collaboration between universities in improving the quality of education and research. This research uses a literature review method by collecting data through in-depth analysis of various relevant and reliable sources, such as scientific journals, academic books, research articles and other documents that support the research topic. The data analysis process uses a qualitative descriptive approach, where the collected data is analyzed by identifying main themes, patterns and key concepts from the literature reviewed. The results of the analysis show that collaboration in higher education is an important strategy in improving the quality of education and research. Based on the analysis that has been carried out, it can be concluded that collaboration between universities is proven to have a significant role in improving the quality of education and relevance of research. Through partnerships, universities can share resources, such as facilities, experts and knowledge, which have a positive impact on academic development and graduate competency.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\EM6PDEHQ\Rahmawati et al. - 2024 - Peran Kolaborasi dalam Perguruan Tinggi.pdf}
+}
+
+@article{rahmawatiPeranKolaborasiDalam2024a,
+  title = {{Peran Kolaborasi dalam Perguruan Tinggi}},
+  author = {Rahmawati, Aulia and S, Rinny and Rahmi, Sri},
+  year = 2024,
+  month = dec,
+  journal = {Indo-MathEdu Intellectuals Journal},
+  volume = {5},
+  number = {6},
+  pages = {8161--8175},
+  issn = {2808-5078, 2808-5604},
+  doi = {10.54373/imeij.v5i6.2273},
+  urldate = {2025-10-28},
+  abstract = {This research aims to analyze the role of collaboration between universities in improving the quality of education and research. This research uses a literature review method by collecting data through in-depth analysis of various relevant and reliable sources, such as scientific journals, academic books, research articles and other documents that support the research topic. The data analysis process uses a qualitative descriptive approach, where the collected data is analyzed by identifying main themes, patterns and key concepts from the literature reviewed. The results of the analysis show that collaboration in higher education is an important strategy in improving the quality of education and research. Based on the analysis that has been carried out, it can be concluded that collaboration between universities is proven to have a significant role in improving the quality of education and relevance of research. Through partnerships, universities can share resources, such as facilities, experts and knowledge, which have a positive impact on academic development and graduate competency.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\5LPZ3UCE\Rahmawati et al. - 2024 - Peran Kolaborasi dalam Perguruan Tinggi.pdf}
+}
+
+@incollection{ricciIntroductionRecommenderSystems2011,
+  title = {Introduction to {{Recommender Systems Handbook}}},
+  booktitle = {Recommender {{Systems Handbook}}},
+  author = {Ricci, Francesco and Rokach, Lior and Shapira, Bracha},
+  editor = {Ricci, Francesco and Rokach, Lior and Shapira, Bracha and Kantor, Paul B.},
+  year = 2011,
+  pages = {1--35},
+  publisher = {Springer US},
+  address = {Boston, MA},
+  doi = {10.1007/978-0-387-85820-3_1},
+  urldate = {2025-12-03},
+  abstract = {Recommender Systems (RSs) are software tools and techniques providing suggestions for items to be of use to a user. In this introductory chapter we briefly discuss basic RS ideas and concepts. Our main goal is to delineate, in a coherent and structured way, the chapters included in this handbook and to help the reader navigate the extremely rich and detailed content that the handbook offers.},
+  isbn = {978-0-387-85819-7 978-0-387-85820-3},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\ATRICQYH\Ricci et al. - 2011 - Introduction to Recommender Systems Handbook.pdf}
+}
+
+@article{roccaCollaborativeLearningHigher2014,
+  title = {Collaborative {{Learning}} in {{Higher Education}}},
+  author = {Rocca, Concetta La and Margottini, Massimo and Capobianco, Rosa},
+  year = 2014,
+  journal = {Open Journal of Social Sciences},
+  volume = {02},
+  number = {02},
+  pages = {61--66},
+  issn = {2327-5952, 2327-5960},
+  doi = {10.4236/jss.2014.22009},
+  urldate = {2025-10-28},
+  abstract = {This paper presents the procedures and the outcomes of collaborative activities and of peer tutoring carried out by the students in the teaching of ``General Didactics'', held at the University of Roma Tre, in ay 2012/13.},
+  copyright = {http://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\KKBHS3XV\Rocca et al. - 2014 - Collaborative Learning in Higher Education.pdf}
+}
+
+@article{rohmanImplementasiModelPembelajaran,
+  title = {{Implementasi Model Pembelajaran Berbasis Proyek atau Project Based Learning (PjBL) pada Mata Pelajaran IPS untuk Meningkatkan Keterampilan Kolaborasi Peserta Didik}},
+  author = {Rohman, M Mujibur and Lestari, Astri and Arsi, Antari Ayuning},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\P37BYFMB\Rohman et al. - Implementasi Model Pembelajaran Berbasis Proyek atau Project Based Learning (PjBL) pada Mata Pelajar.pdf}
+}
+
+@incollection{sansonePromoting21stCentury2018,
+  title = {Promoting 21st Century Skills in {{Higher Education}} through Collaboration and Activities},
+  booktitle = {Studies on {{Adult Learning}} and {{Education}}},
+  author = {Sansone, Nadia and Cesareni, Donatella and Bortolotti, Ilaria},
+  editor = {Boffo, Vanna and Fedeli, Monica},
+  year = 2018,
+  edition = {1},
+  volume = {8},
+  pages = {163--173},
+  publisher = {Firenze University Press},
+  address = {Florence},
+  doi = {10.36253/978-88-6453-672-9.24},
+  urldate = {2025-12-03},
+  abstract = {The paper presents a model of university teaching where students are involved in concrete activities and collaborate while developing key competences for the academic and working future. 52 students of the Degree Course in Psychology at the Sapienza University of Rome participated to the activity. The method of data collection and analysis combines qualitative and quantitative approach. Results show a general perception of skills enhancement and a good appreciation of the course, especially in comparison with traditional learning modes.},
+  copyright = {https://creativecommons.org/licenses/by/4.0/legalcode},
+  isbn = {978-88-6453-671-2 978-88-6453-672-9 978-88-9273-119-6},
+  langid = {english},
+  file = {C:\Users\asus\Zotero\storage\ZZFEEEJX\Sansone et al. - 2018 - Promoting 21st century skills in Higher Education through collaboration and activities.pdf}
+}
+
+@article{sulisRESISTANCECHANGEMAHASISWA2020,
+  title = {{RESISTANCE TO CHANGE MAHASISWA PSIKOLOGI UNIVERSITAS ESA UNGGUL YANG MENGIKUTI PERKULIAHAN ONLINE}},
+  author = {Sulis, Mariyanti},
+  year = 2020,
+  month = dec,
+  journal = {Jurnal Psikologi : Media Ilmiah Psikologi},
+  volume = {18},
+  number = {02},
+  issn = {2528-3227, 1907-7483},
+  doi = {10.47007/jpsi.v18i02.108},
+  urldate = {2025-12-03},
+  abstract = {With increasingly sophisticated internet technology, several educational institutions including the Universitas Esa Unggul began to adjust to developing online learning patterns that were considered more effective and efficient, not only for lecturers but also for students. Changes in learning patterns from conventional ones using full face-to-face changes to learning patterns that use distance learning or what is known as online learning seem to reap a variety of responses and attitudes from psychology students who take online lecture material to a maximum of 3 online lecture material in each semester. Every change will be followed by inconvenience so that there a re those who are not supportive and reject the change or known as resistance to change, but there are also students who feel fortunate in implementing online lectures. The purpose of this study is to determine the profile of resistance to change psychology students who take online lectures. This research is a descriptive quantitative study with a sample of 87 UEU psychology students who have attended a one -semester face-to-face and online lecture. The Resistance to Change (RTC) scale was arranged based on the reference fro m Oreg (2008) with 42 valid items and a reliability value of 0.97. The results showed that more psychology students had lower RTC (61\%) or more who accepted the change in conventional learning patterns to become online. Students with low RTC are those who are working, not married, and are male.},
+  langid = {indonesian},
+  file = {C:\Users\asus\Zotero\storage\3B5ECHRL\Sulis - 2020 - RESISTANCE TO CHANGE MAHASISWA PSIKOLOGI UNIVERSITAS ESA UNGGUL YANG MENGIKUTI PERKULIAHAN ONLINE.pdf}
+}

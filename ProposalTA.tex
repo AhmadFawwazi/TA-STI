@@ -1,4 +1,4 @@
-%! TEX program = xelatex
+% !TEX program = xelatex
 % 
 % Template Proposal Tugas Akhir
 % Program Studi Sistem dan Teknologi Informasi
@@ -30,36 +30,36 @@
 % - Gunakan editor LaTeX yang mendukung XeLaTeX, seperti TeXstudio, Overleaf, atau lainnya.
 % - Jika meenggunakan Visual Studio Code sebagai editor, pastikan mengatur "latex-workshop.latex.tools" dan
 %   "latex-workshop.latex.recipes" untuk mendukung XeLaTeX dan Biber dengan cara menambahkan konfigurasi berikut:
-%   "latex-workshop.latex.tools": [ 
-%       {
-%           "name": "xelatex",
-%           "command": "xelatex",
-%           "args": [
-%               "-synctex=1",
-%               "-interaction=nonstopmode",
-%               "-file-line-error",
-%               "%DOC%"
-%           ]
-%       },
-%       {
-%           "name": "biber",
-%           "command": "biber",
-%           "args": [
-%               "%DOCFILE%"
-%           ]
-%       }
-%   ],
-%   "latex-workshop.latex.recipes": [
-%       {
-%           "name": "xelatex -> biber -> xelatex*2",
-%           "tools": [
-%               "xelatex",
-%               "biber",
-%               "xelatex",
-%               "xelatex"
-%           ]
-%       }
-%   ]
+  % "latex-workshop.latex.tools": [ 
+  %     {
+  %         "name": "xelatex",
+  %         "command": "xelatex",
+  %         "args": [
+  %             "-synctex=1",
+  %             "-interaction=nonstopmode",
+  %             "-file-line-error",
+  %             "%DOC%"
+  %         ]
+  %     },
+  %     {
+  %         "name": "biber",
+  %         "command": "biber",
+  %         "args": [
+  %             "%DOCFILE%"
+  %         ]
+  %     }
+  % ],
+  % "latex-workshop.latex.recipes": [
+  %     {
+  %         "name": "xelatex -> biber -> xelatex*2",
+  %         "tools": [
+  %             "xelatex",
+  %             "biber",
+  %             "xelatex",
+  %             "xelatex"
+  %         ]
+  %     }
+  % ]
 % - Untuk referensi lebih lanjut tentang penggunaan BibLaTeX dengan gaya Chicago, silakan merujuk ke dokumentasi resmi BibLaTeX.
 %   https://ctan.org/pkg/biblatex-chicago
 % - Untuk referensi lebih lanjut tentang penggunaan XeLaTeX dan fontspec, silakan merujuk ke dokumentasi resmi fontspec.
@@ -98,7 +98,6 @@
 \usepackage{booktabs}
 \usepackage[id-ID]{datetime2}
 
-
 \setcounter{tocdepth}{4} % kedalaman daftar isi sampai subsubbab
 \setcounter{secnumdepth}{4} % kedalaman penomoran sampai subsubbab
 
@@ -113,7 +112,8 @@
     autolang=other
 ]{biblatex-chicago}
 
-\addbibresource{daftar-pustaka.bib}
+% \addbibresource{daftar-pustaka.bib}
+\addbibresource{PropsalTA_AhmadFawwazi.bib}
 
 % ==========================================
 % Ubah istilah bahasa Inggris di daftar pustaka ke Bahasa Indonesia
@@ -185,7 +185,7 @@
     
     \vspace*{2cm}
     
-    {\Large\bfseries PERANCANGAN PLATFORM TERINTEGRASI MAHASISWA DAN ALUMNI MUDA UNTUK MENDUKUNG KEGIATAN KOLABORASI BERORIENTASI PROYEK}\\
+    {\Large\bfseries  PENGEMBANGAN APLIKASI KOLABORASI MAHASISWA: MODUL REKOMENDASI \textit{PEOPLE TO PEOPLE} MENGGUNAKAN \textit{AFFINITY BASED MATCHING}}\\
      \vspace{4cm}
 
     {\Large \textbf{Proposal Tugas Akhir}}\\
@@ -232,7 +232,7 @@
   \textbf{\large LEMBAR PENGESAHAN}\\[1cm]
   \vspace*{1.5cm}
     
-  {\large\bfseries PERANCANGAN PLATFORM TERINTEGRASI MAHASISWA DAN ALUMNI MUDA UNTUK MENDUKUNG KEGIATAN KOLABORASI BERORIENTASI PROYEK}\\
+  {\large\bfseries  PENGEMBANGAN APLIKASI KOLABORASI MAHASISWA: MODUL REKOMENDASI \textit{PEOPLE TO PEOPLE} MENGGUNAKAN \textit{AFFINITY BASED MATCHING}}\\
      \vspace{2cm}
 
   {\Large \textbf{Proposal Tugas Akhir}}\\
@@ -263,7 +263,7 @@
 % ==========================================
 	Pembimbing  \\[3cm]
 	Dr. Ir. Arry Akhmad Arman, M.T.   \\[0.2cm]
-	NIP.  
+	NIP. 196504141991021001
 % ==========================================
 
 \end{center}
@@ -325,11 +325,11 @@
 \listoftables
 \addcontentsline{toc}{chapter}{DAFTAR TABEL}
 
-% --- DAFTAR LISTING (ALGORITMA, PSEUDOCODE, SOURCE CODE) ---
-\newpage
+% % --- DAFTAR LISTING (ALGORITMA, PSEUDOCODE, SOURCE CODE) ---
+% \newpage
 
-\lstlistoflistings
-\addcontentsline{toc}{chapter}{\lstlistlistingname}
+% \lstlistoflistings
+% \addcontentsline{toc}{chapter}{\lstlistlistingname}
 
 \mainmatter
 % --- FORMAT TAMPILAN JUDUL BAB, SUBBAB, JUDUL GAMBAR DAN TABEL ---

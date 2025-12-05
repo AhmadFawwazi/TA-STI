@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'ProposalTA.blg'
+[426] biber-MSWIN64:342> INFO - === 
+[558] Biber.pm:421> INFO - Reading 'ProposalTA.bcf'
+[1358] Biber.pm:1002> INFO - Found 18 citekeys in bib section 0
+[1387] Biber.pm:4487> INFO - Processing section 0
+[1410] Biber.pm:4678> INFO - Looking for bibtex file 'PropsalTA_AhmadFawwazi.bib' for section 0
+[1525] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1704] bibtex.pm:1519> INFO - Found BibTeX data source 'PropsalTA_AhmadFawwazi.bib'
+[2387] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2388] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'level = 4' with 'level = 2'
+[2388] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2388] Biber.pm:4307> INFO - Sorting list 'cms/global//global/global/global' of type 'entry' with template 'cms' and locale 'indonesian'
+[2388] Biber.pm:4313> INFO - No sort tailoring available for locale 'indonesian'
+[2505] bbl.pm:676> INFO - Writing 'ProposalTA.bbl' with encoding 'UTF-8'
+[2556] bbl.pm:779> INFO - Output to ProposalTA.bbl
+[2557] Biber.pm:132> WARN - ISBN '978-88-6453-671-2 978-88-6453-672-9 978-88-9273-119-6' in entry 'sansonePromoting21stCentury2018' is invalid - run biber with '--validate_datamodel' for details.
+[2557] Biber.pm:132> WARN - ISBN '978-1-292-09613-1 978-1-292-09614-8' in entry 'sommervilleSoftwareEngineering2016' is invalid - run biber with '--validate_datamodel' for details.
+[2557] Biber.pm:132> WARN - ISBN '978-0-387-85819-7 978-0-387-85820-3' in entry 'ricciIntroductionRecommenderSystems2011' is invalid - run biber with '--validate_datamodel' for details.
+[2558] Biber.pm:132> WARN - I didn't find a database entry for 'rogers2015interaction' (section 0)
+[2558] Biber.pm:134> INFO - WARNINGS: 4
